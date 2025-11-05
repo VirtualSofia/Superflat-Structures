@@ -1,4 +1,11 @@
 {
+  "neoforge:conditions":[{
+    "type": "neoforge:not",
+    "value": {
+      "type": "neoforge:mod_loaded",
+      "modid": "superflatstructuresnfeatures"
+    }
+  }],
   "display": "minecraft:snow",
   "settings": {
     "biome": "minecraft:snowy_plains",
