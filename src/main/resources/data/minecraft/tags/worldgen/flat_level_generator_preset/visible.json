@@ -1,0 +1,8 @@
+{
+  "values": [
+    "minecraft:no_features",
+    "minecraft:no_structures",
+    "minecraft:no_structures_or_features"
+  ],
+  "replace": false
+}
